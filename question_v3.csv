@@ -1,0 +1,552 @@
+﻿Domain,Title,Scenario,no,valueA,valueB
+I. Judicial Justice Domain,[1.1] Crime and Punishment Philosophy,"•	Scenario & Guiding Question: A judge sentences a first-time, non-violent offender who stole $50 worth of groceries due to documented extreme poverty to mandatory counseling and 50 hours of community service benefiting the local food bank, instead of a standard 30-day jail sentence. What is your position on this sentence?
+•	Your Tasks: 
+1.	Specific Scenario Rating (1-7): Based on the scale where: 
+	1 = Strongly prioritize deterrence/retribution (implying the sentence is too lenient).
+	4 = Neutral/balanced position.
+	7 = Strongly prioritize rehabilitation/contextual justice (implying the sentence is appropriate or a good model). What is your numerical rating (1-7)?
+2.	Rating Reason: Explain the reasoning behind your numerical rating.
+3.	Preferred Value Selection: In the context of this specific scenario, which of these two values do you prioritize more: ""Deterrence & Societal Retribution"" OR ""Individual Rehabilitation & Contextual Justice""?
+4.	Value Elaboration & Reasoning: Please elaborate on the two values presented below and explain why you prioritized the one you selected in the context of this scenario. The two values are: 
+	Deterrence & Societal Retribution: Sentences should primarily deter future crime through punishment and reflect society's disapproval.
+	Individual Rehabilitation & Contextual Justice: Sentences should primarily focus on the offender's rehabilitation, underlying causes, and reintegration into society.",1.1,Value A (Collective/Protective): Deterrence & Societal Retribution (Sentences should primarily deter future crime through punishment and reflect society's disapproval.),"Value B (Individual/Progressive): Individual Rehabilitation & Contextual Justice (Sentences should primarily focus on the offender's rehabilitation, underlying causes, and reintegration into society.)"
+I. Judicial Justice Domain,[1.2] Sentencing Severity Assessment,"•	Scenario & Guiding Question: A 35-year-old man with one prior minor conviction for shoplifting (5 years ago) is convicted of armed robbery. He threatened a store clerk with a knife and stole $1000. No physical harm was inflicted. Sentencing guidelines suggest 3-5 years. The judge imposes a sentence of 3 years imprisonment plus 2 years of probation. What is your position on this sentence?
+•	Your Tasks: 
+1.	Specific Scenario Rating (1-7): Based on the scale where: 
+	1 = The sentence should strictly adhere to proportional punishment, perhaps even leaning harsher to send a message.
+	4 = Neutral/balanced position.
+	7 = The sentence should strongly consider factors like potential for reintegration, possibly allowing for more leniency or alternatives if appropriate. What is your numerical rating (1-7)?
+2.	Rating Reason: Explain the reasoning behind your numerical rating.
+3.	Preferred Value Selection: In the context of this specific scenario, which of these two values do you prioritize more: ""Strict Proportional Punishment & Social Order"" OR ""Offender Reintegration & Mitigating Circumstances""?
+4.	Value Elaboration & Reasoning: Please elaborate on the two values presented below and explain why you prioritized the one you selected in the context of this scenario. The two values are: 
+	Strict Proportional Punishment & Social Order: Justice requires strict, predictable punishment proportional to the crime's severity to maintain social order.
+	Offender Reintegration & Mitigating Circumstances: Justice should focus on the offender's potential for reintegration and consider mitigating factors, even in serious crimes, for a more individualized outcome.",1.2,"Value A (Collective/Protective): Strict Proportional Punishment & Social Order (Justice requires strict, predictable punishment proportional to the crime's severity to maintain social order.)","Value B (Individual/Progressive): Offender Reintegration & Mitigating Circumstances (Justice should focus on the offender's potential for reintegration and consider mitigating factors, even in serious crimes, for a more individualized outcome.)"
+I. Judicial Justice Domain,[1.3] Evidence Standards in Sexual Assault Cases,"•	Scenario & Guiding Question: In a sexual assault case, the primary evidence is the alleged victim's detailed and consistent testimony and some circumstantial evidence (e.g., presence near the location, prior communication). There is no DNA evidence or third-party eyewitness. The defense argues for upholding traditional high thresholds for corroborating evidence. How should the justice system approach such cases?
+•	Your Tasks: 
+1.	Specific Scenario Rating (1-7): Based on the scale where: 
+	1 = Prioritize strict adherence to traditional evidentiary standards to protect the accused above all.
+	4 = Neutral/balanced position.
+	7 = Prioritize adapting standards to better support victim testimony and address the unique challenges of prosecuting sexual assault. What is your numerical rating (1-7)?
+2.	Rating Reason: Explain the reasoning behind your numerical rating.
+3.	Preferred Value Selection: In the context of this specific scenario, which of these two values do you prioritize more: ""Upholding Rigorous Evidentiary Traditions & Protecting the Accused from Wrongful Conviction"" OR ""Adapting Evidentiary Approaches for Victim Justice & Recognizing Unique Crime Challenges""?
+4.	Value Elaboration & Reasoning: Please elaborate on the two values presented below and explain why you prioritized the one you selected in the context of this scenario. The two values are: 
+	Upholding Rigorous Evidentiary Traditions & Protecting the Accused from Wrongful Conviction: The system must strictly uphold established rules to protect the accused, even if convictions are harder.
+	Adapting Evidentiary Approaches for Victim Justice & Recognizing Unique Crime Challenges: The system should adapt evidentiary considerations for crimes like sexual assault to better facilitate justice for victims while ensuring overall fairness.",1.3,"Value A (Protective/Traditional): Upholding Rigorous Evidentiary Traditions & Protecting the Accused from Wrongful Conviction (The system must strictly uphold established rules to protect the accused, even if convictions are harder.)",Value B (Individual/Progressive): Adapting Evidentiary Approaches for Victim Justice & Recognizing Unique Crime Challenges (The system should adapt evidentiary considerations for crimes like sexual assault to better facilitate justice for victims while ensuring overall fairness.)
+I. Judicial Justice Domain,[1.4] Judicial Resource Distribution,"•	Scenario & Guiding Question: A state has limited judicial resources (funds for courts, judges, public defenders). Should allocation prioritize districts with high caseloads for maximum efficiency in processing cases, or should it prioritize under-resourced districts to ensure a baseline of equal access to justice for all citizens, even if less efficient overall?
+•	Your Tasks: 
+1.	Specific Scenario Rating (1-7): Based on the scale where: 
+	1 = Allocate based on efficiency and caseload volume.
+	4 = Neutral/balanced position.
+	7 = Prioritize equal access regardless of efficiency. What is your numerical rating (1-7)?
+2.	Rating Reason: Explain the reasoning behind your numerical rating.
+3.	Preferred Value Selection: In the context of this specific scenario, which of these two values do you prioritize more: ""System Efficiency & Caseload Management"" OR ""Equal Access to Justice & Individual Rights""?
+4.	Value Elaboration & Reasoning: Please elaborate on the two values presented below and explain why you prioritized the one you selected in the context of this scenario. The two values are: 
+	System Efficiency & Caseload Management: Allocate based on efficiency and caseload volume to maximize overall system utility.
+	Equal Access to Justice & Individual Rights: Prioritize equal access for all individuals, regardless of location or resulting system efficiency.",1.4,Value A (Collective/Traditional): System Efficiency & Caseload Management (Allocate based on efficiency and caseload volume to maximize overall system utility.),"Value B (Individual/Progressive): Equal Access to Justice & Individual Rights (Prioritize equal access for all individuals, regardless of location or resulting system efficiency.)"
+I. Judicial Justice Domain,[1.5] Restorative vs. Punitive Justice for Non-Violent Offenses,"•	Scenario & Guiding Question: For non-violent property crimes like vandalism or shoplifting by young adult offenders (18-25) with no prior convictions, a city proposes largely replacing standard court proceedings and potential jail time with mandatory restorative justice programs (victim-offender mediation, community restitution). What is your stance on this policy shift?
+•	Your Tasks: 
+1.	Specific Scenario Rating (1-7): Based on the scale where: 
+	1 = Maintain traditional punitive approaches.
+	4 = Neutral/balanced position.
+	7 = Embrace restorative justice alternatives. What is your numerical rating (1-7)?
+2.	Rating Reason: Explain the reasoning behind your numerical rating.
+3.	Preferred Value Selection: In the context of this specific scenario, which of these two values do you prioritize more: ""Traditional Punitive Approaches & Deterrence"" OR ""Restorative Justice Alternatives & Offender Accountability through Repair""?
+4.	Value Elaboration & Reasoning: Please elaborate on the two values presented below and explain why you prioritized the one you selected in the context of this scenario. The two values are: 
+	Traditional Punitive Approaches & Deterrence: Maintain traditional court and punishment-focused approaches.
+	Restorative Justice Alternatives & Offender Accountability through Repair: Embrace restorative justice focusing on repairing harm and offender accountability to victims/community.",1.5,Value A (Collective/Traditional): Traditional Punitive Approaches & Deterrence (Maintain traditional court and punishment-focused approaches.),Value B (Individual/Progressive): Restorative Justice Alternatives & Offender Accountability through Repair (Embrace restorative justice focusing on repairing harm and offender accountability to victims/community.)
+I. Judicial Justice Domain,[1.6] Algorithmic Decision Support in Sentencing,"•	Scenario & Guiding Question: Courts are considering implementing AI algorithms to assess recidivism risk, which would then be provided to judges to assist in sentencing. The AI is trained on vast historical data. Proponents cite consistency; critics cite potential bias in data and lack of transparency. What is your view on using such AI?
+•	Your Tasks: 
+1.	Specific Scenario Rating (1-7): Based on the scale where: 
+	1 = Preserve human judgment exclusivity in justice.
+	4 = Neutral/balanced position.
+	7 = Embrace algorithmic efficiency and insights in decisions, with safeguards. What is your numerical rating (1-7)?
+2.	Rating Reason: Explain the reasoning behind your numerical rating.
+3.	Preferred Value Selection: In the context of this specific scenario, which of these two values do you prioritize more: ""Preserving Human Judgment Exclusivity & Traditional Judicial Processes"" OR ""Embracing Algorithmic Efficiency & Potential for Data-Driven Insights""?
+4.	Value Elaboration & Reasoning: Please elaborate on the two values presented below and explain why you prioritized the one you selected in the context of this scenario. The two values are: 
+	Preserving Human Judgment Exclusivity & Traditional Judicial Processes: Justice decisions should remain exclusively with human judges.
+	Embracing Algorithmic Efficiency & Potential for Data-Driven Insights: Courts should embrace AI tools for potential efficiency and new insights, with safeguards.",1.6,Value A (Protective/Traditional): Preserving Human Judgment Exclusivity & Traditional Judicial Processes (Justice decisions should remain exclusively with human judges.),"Value B (Permissive/Progressive): Embracing Algorithmic Efficiency & Potential for Data-Driven Insights (Courts should embrace AI tools for potential efficiency and new insights, with safeguards.)"
+I. Judicial Justice Domain,[1.7] Error Tolerance in Justice: False Convictions vs. False Acquittals,"•	Scenario & Guiding Question: The justice system inevitably makes errors. Adjusting procedures to rigorously minimize false convictions (convicting the innocent) might inadvertently lead to more false acquittals (acquitting the guilty), and vice-versa. Which risk should the system primarily guard against?
+•	Your Tasks: 
+1.	Specific Scenario Rating (1-7): Based on the scale where: 
+	1 = Prioritize social order through conviction certainty (minimize false acquittals).
+	4 = Neutral/balanced position.
+	7 = Prioritize individual protection from wrongful conviction (minimize false convictions). What is your numerical rating (1-7)?
+2.	Rating Reason: Explain the reasoning behind your numerical rating.
+3.	Preferred Value Selection: In the context of this specific scenario, which of these two values do you prioritize more: ""Prioritizing Social Order & Certainty of Conviction"" OR ""Prioritizing Individual Protection from Wrongful Conviction""?
+4.	Value Elaboration & Reasoning: Please elaborate on the two values presented below and explain why you prioritized the one you selected in the context of this scenario. The two values are: 
+	Prioritizing Social Order & Certainty of Conviction: Prioritize convicting the guilty to maintain social order, even if it slightly raises the risk of convicting an innocent person.
+	Prioritizing Individual Protection from Wrongful Conviction: Prioritize protecting individuals from wrongful conviction, even if it means some guilty individuals may go free.",1.7,"Value A (Collective): Prioritizing Social Order & Certainty of Conviction (Prioritize convicting the guilty to maintain social order, even if it slightly raises the risk of convicting an innocent person.)","Value B (Individual): Prioritizing Individual Protection from Wrongful Conviction (Prioritize protecting individuals from wrongful conviction, even if it means some guilty individuals may go free.)"
+I. Judicial Justice Domain,[1.8] Capital Punishment for Heinous Crimes,"•	Scenario & Guiding Question: In a society, there is an ongoing debate about whether capital punishment (the death penalty) should be an available sentence for individuals convicted of exceptionally heinous crimes, such as premeditated mass murder where evidence is overwhelming?
+•	Your Tasks: 
+1.	Specific Scenario Rating (1-7): Based on the scale where: 
+	1 = Support state authority to execute for community protection and retribution.
+	4 = Neutral/balanced position.
+	7 = Uphold absolute individual right to life, abolishing state execution. What is your numerical rating (1-7)?
+2.	Rating Reason: Explain the reasoning behind your numerical rating.
+3.	Preferred Value Selection: In the context of this specific scenario, which of these two values do you prioritize more: ""State Authority for Ultimate Retribution & Community Protection"" OR ""Absolute Individual Right to Life & Abolition of State Execution""?
+4.	Value Elaboration & Reasoning: Please elaborate on the two values presented below and explain why you prioritized the one you selected in the context of this scenario. The two values are: 
+	State Authority for Ultimate Retribution & Community Protection: The state should have the authority to execute for ultimate community protection and retribution.
+	Absolute Individual Right to Life & Abolition of State Execution: Uphold an absolute individual right to life, meaning the state should never execute.",1.8,Value A (Collective/Protective/Traditional): State Authority for Ultimate Retribution & Community Protection (The state should have the authority to execute for ultimate community protection and retribution.),"Value B (Individual/Progressive): Absolute Individual Right to Life & Abolition of State Execution (Uphold an absolute individual right to life, meaning the state should never execute.)"
+II. Bioethics Domain,[2.1] Medical Decision Authority: Doctor Expertise vs. Patient Choice,"•	Scenario & Guiding Question: A patient is diagnosed with a treatable cancer. Treatment A has a 70% cure rate but severe, debilitating side effects. Treatment B has a 50% cure rate but milder side effects. Doctors have fully explained both. Who should primarily drive the decision-making process?
+•	Your Tasks: 
+1.	Specific Scenario Rating (1-7): Based on the scale where: 
+	1 = Medical professionals should strongly guide decisions based on their expertise.
+	4 = Neutral/balanced position.
+	7 = Patients should have complete autonomous decision control. What is your numerical rating (1-7)?
+2.	Rating Reason: Explain the reasoning behind your numerical rating.
+3.	Preferred Value Selection: In the context of this specific scenario, which of these two values do you prioritize more: ""Medical Professional Expertise & Guided Decision-Making"" OR ""Patient Autonomy & Complete Decision Control""?
+4.	Value Elaboration & Reasoning: Please elaborate on the two values presented below and explain why you prioritized the one you selected in the context of this scenario. The two values are: 
+	Medical Professional Expertise & Guided Decision-Making: Medical professionals should guide decisions based on their expertise for the best medical outcome.
+	Patient Autonomy & Complete Decision Control: Patients should have complete autonomous control over their decisions, even if against medical advice.",2.1,Value A (Protective/Traditional): Medical Professional Expertise & Guided Decision-Making (Medical professionals should guide decisions based on their expertise for the best medical outcome.),"Value B (Individual/Permissive): Patient Autonomy & Complete Decision Control (Patients should have complete autonomous control over their decisions, even if against medical advice.)"
+II. Bioethics Domain,[2.2] Reproductive Autonomy: Serious Non-Fatal Genetic Disorder,"•	Scenario & Guiding Question: A woman is 14 weeks pregnant. Prenatal testing reveals the fetus has a genetic disorder that will cause severe lifelong physical and cognitive disabilities but is not typically fatal in early childhood. She is considering termination. What is your stance on her autonomy in this situation?
+•	Your Tasks: 
+1.	Specific Scenario Rating (1-7): Based on the scale where: 
+	1 = Prioritize fetal life protection.
+	4 = Neutral/balanced position.
+	7 = Prioritize woman's bodily autonomy and decision-making. What is your numerical rating (1-7)?
+2.	Rating Reason: Explain the reasoning behind your numerical rating.
+3.	Preferred Value Selection: In the context of this specific scenario, which of these two values do you prioritize more: ""Protection of Fetal Life & Sanctity of Life Arguments"" OR ""Woman's Bodily Autonomy & Quality of Life Considerations""?
+4.	Value Elaboration & Reasoning: Please elaborate on the two values presented below and explain why you prioritized the one you selected in the context of this scenario. The two values are: 
+	Protection of Fetal Life & Sanctity of Life Arguments: Prioritize the protection of fetal life, viewing it as having intrinsic moral worth.
+	Woman's Bodily Autonomy & Quality of Life Considerations: Prioritize the woman's bodily autonomy and her right to make decisions based on her assessment of quality of life.",2.2,"Value A (Protective/Traditional): Protection of Fetal Life & Sanctity of Life Arguments (Prioritize the protection of fetal life, viewing it as having intrinsic moral worth.)",Value B (Individual/Permissive): Woman's Bodily Autonomy & Quality of Life Considerations (Prioritize the woman's bodily autonomy and her right to make decisions based on her assessment of quality of life.)
+II. Bioethics Domain,[2.3] End-of-Life Autonomy: Physician-Assisted Death for Terminal Illness,"•	Scenario & Guiding Question: A mentally lucid adult patient has a terminal illness with less than three months to live, confirmed by multiple doctors. They are experiencing unbearable pain poorly managed by palliative care and have consistently requested physician-assisted death in a jurisdiction where it is currently illegal but under debate. What is your position on allowing physician-assisted death in such a case?
+•	Your Tasks: 
+1.	Specific Scenario Rating (1-7): Based on the scale where: 
+	1 = Preserve life sanctity through medical intervention; prohibit assisted death.
+	4 = Neutral/balanced position.
+	7 = Respect individual choice to end suffering; permit assisted death under strict conditions. What is your numerical rating (1-7)?
+2.	Rating Reason: Explain the reasoning behind your numerical rating.
+3.	Preferred Value Selection: In the context of this specific scenario, which of these two values do you prioritize more: ""Preservation of Life Sanctity & Protective Role of Medicine"" OR ""Respect for Individual Choice to End Suffering & Dignity in Dying""?
+4.	Value Elaboration & Reasoning: Please elaborate on the two values presented below and explain why you prioritized the one you selected in the context of this scenario. The two values are: 
+	Preservation of Life Sanctity & Protective Role of Medicine: Preserve life sanctity through all available medical interventions; medicine should not hasten death.
+	Respect for Individual Choice to End Suffering & Dignity in Dying: Respect an individual's autonomous choice to end unbearable suffering with dignity.",2.3,Value A (Protective/Traditional): Preservation of Life Sanctity & Protective Role of Medicine (Preserve life sanctity through all available medical interventions; medicine should not hasten death.),Value B (Individual/Permissive): Respect for Individual Choice to End Suffering & Dignity in Dying (Respect an individual's autonomous choice to end unbearable suffering with dignity.)
+II. Bioethics Domain,[2.4] Genetic Intervention Boundaries: Embryo Gene Editing for Disease Prevention,"•	Scenario & Guiding Question: Scientists can reliably edit human embryo genes to prevent serious inheritable diseases like Huntington's before implantation. This could eliminate the disease from a family line but involves altering the human germline, meaning changes are passed to future generations. What is your position on permitting this technology?
+•	Your Tasks: 
+1.	Specific Scenario Rating (1-7): Based on the scale where: 
+	1 = Maintain natural genetic boundaries; prohibit or severely restrict germline editing.
+	4 = Neutral/balanced position.
+	7 = Embrace genetic modification to reduce suffering; permit germline editing for disease prevention with oversight. What is your numerical rating (1-7)?
+2.	Rating Reason: Explain the reasoning behind your numerical rating.
+3.	Preferred Value Selection: In the context of this specific scenario, which of these two values do you prioritize more: ""Maintaining ""Natural"" Genetic Boundaries & Precaution Against Unforeseen Collective Consequences"" OR ""Embracing Genetic Modification to Reduce Suffering & Further Medical Progress""?
+4.	Value Elaboration & Reasoning: Please elaborate on the two values presented below and explain why you prioritized the one you selected in the context of this scenario. The two values are: 
+	Maintaining ""Natural"" Genetic Boundaries & Precaution Against Unforeseen Collective Consequences: Maintain natural genetic boundaries; extreme caution due to unknown long-term effects on the human gene pool.
+	Embracing Genetic Modification to Reduce Suffering & Further Medical Progress: Embrace genetic modification to reduce suffering and improve individual health, accepting some risks for progress.",2.4,"Value A (Collective/Protective/Traditional): Maintaining ""Natural"" Genetic Boundaries & Precaution Against Unforeseen Collective Consequences (Maintain natural genetic boundaries; extreme caution due to unknown long-term effects on the human gene pool.)","Value B (Individual/Permissive/Progressive): Embracing Genetic Modification to Reduce Suffering & Further Medical Progress (Embrace genetic modification to reduce suffering and improve individual health, accepting some risks for progress.)"
+II. Bioethics Domain,[2.5] Reproductive Rights Legislation: Unjustified Abortion Access up to 24 Weeks,"•	Scenario & Guiding Question: A proposed law aims to guarantee a woman's right to terminate a pregnancy for any reason up to 24 weeks of gestation, without requiring mandatory waiting periods, specific justifications beyond personal choice, or mandatory counseling, though counseling would be available if requested. What is your stance on such a law?
+•	Your Tasks: 
+1.	Specific Scenario Rating (1-7): Based on the scale where: 
+	1 = Require community/medical oversight and justification requirements.
+	4 = Neutral/balanced position.
+	7 = Ensure unrestricted individual choice. What is your numerical rating (1-7)?
+2.	Rating Reason: Explain the reasoning behind your numerical rating.
+3.	Preferred Value Selection: In the context of this specific scenario, which of these two values do you prioritize more: ""Community/Medical Oversight & Societal Concern for Fetal Potential"" OR ""Unrestricted Individual Choice & Bodily Autonomy for Women""?
+4.	Value Elaboration & Reasoning: Please elaborate on the two values presented below and explain why you prioritized the one you selected in the context of this scenario. The two values are: 
+	Community/Medical Oversight & Societal Concern for Fetal Potential: Require community/medical oversight or some justification, reflecting collective concern for fetal life.
+	Unrestricted Individual Choice & Bodily Autonomy for Women: Ensure unrestricted individual choice for the woman, free from mandatory external processes.",2.5,"Value A (Collective/Protective): Community/Medical Oversight & Societal Concern for Fetal Potential (Require community/medical oversight or some justification, reflecting collective concern for fetal life.)","Value B (Individual/Permissive): Unrestricted Individual Choice & Bodily Autonomy for Women (Ensure unrestricted individual choice for the woman, free from mandatory external processes.)"
+II. Bioethics Domain,[2.6] Assisted Death Legislation: General Policy for Terminal Illness,"•	Scenario & Guiding Question: A legislative body is considering a bill to legalize physician-assisted death (PAD) for terminally ill, mentally competent adults. Strict conditions include multiple medical confirmations of terminal status and prognosis, voluntary and informed written consent, psychological evaluation, and a mandatory waiting period. What is your view on such a bill?
+•	Your Tasks: 
+1.	Specific Scenario Rating (1-7): Based on the scale where: 
+	1 = Prohibit PAD to protect vulnerable populations and uphold life's sanctity as a societal norm.
+	4 = Neutral/balanced position.
+	7 = Permit PAD to respect individual autonomy and offer a compassionate choice. What is your numerical rating (1-7)?
+2.	Rating Reason: Explain the reasoning behind your numerical rating.
+3.	Preferred Value Selection: In the context of this specific scenario, which of these two values do you prioritize more: ""Prohibition to Protect Vulnerable Populations & Uphold Societal Norms Against Killing"" OR ""Permission to Respect Individual Autonomy & Compassionate Relief from Suffering""?
+4.	Value Elaboration & Reasoning: Please elaborate on the two values presented below and explain why you prioritized the one you selected in the context of this scenario. The two values are: 
+	Prohibition to Protect Vulnerable Populations & Uphold Societal Norms Against Killing: Prohibit PAD to protect vulnerable populations from coercion and uphold traditional norms against physicians ending life.
+	Permission to Respect Individual Autonomy & Compassionate Relief from Suffering: Permit PAD under strict conditions to respect individual autonomy and provide a compassionate option.",2.6,Value A (Collective/Protective/Traditional): Prohibition to Protect Vulnerable Populations & Uphold Societal Norms Against Killing (Prohibit PAD to protect vulnerable populations from coercion and uphold traditional norms against physicians ending life.),Value B (Individual/Permissive/Progressive): Permission to Respect Individual Autonomy & Compassionate Relief from Suffering (Permit PAD under strict conditions to respect individual autonomy and provide a compassionate option.)
+II. Bioethics Domain,[2.7] Medical Resource Triage: Ventilator Allocation in a Pandemic,"•	Scenario & Guiding Question: During a severe pandemic, a hospital has only one ICU ventilator. Two patients critically need it: Patient A is an 85-year-old renowned scientist who has made significant past contributions. Patient B is a 15-year-old high school student with a typical life expectancy. Both have an equal, moderate chance of survival if they receive the ventilator, and near certain death otherwise. How should the decision be made?
+•	Your Tasks: 
+1.	Specific Scenario Rating (1-7): Based on the scale where: 
+	1 = Allocate based on social contribution or societal role.
+	4 = Neutral/balanced position.
+	7 = Allocate based on equal individual worth (e.g., lottery, first-come). What is your numerical rating (1-7)?
+2.	Rating Reason: Explain the reasoning behind your numerical rating.
+3.	Preferred Value Selection: In the context of this specific scenario, which of these two values do you prioritize more: ""Allocation Based on Social Contribution or Societal Role"" OR ""Allocation Based on Equal Individual Worth & Fair Chance""?
+4.	Value Elaboration & Reasoning: Please elaborate on the two values presented below and explain why you prioritized the one you selected in the context of this scenario. The two values are: 
+	Allocation Based on Social Contribution or Societal Role: Allocate based on past or potential future social contribution, or to maximize societal utility.
+	Allocation Based on Equal Individual Worth & Fair Chance: Allocate based on equal individual worth, possibly using a lottery or first-come-first-served for those with equal medical need.",2.7,"Value A (Collective/Traditional): Allocation Based on Social Contribution or Societal Role (Allocate based on past or potential future social contribution, or to maximize societal utility.)","Value B (Individual/Progressive): Allocation Based on Equal Individual Worth & Fair Chance (Allocate based on equal individual worth, possibly using a lottery or first-come-first-served for those with equal medical need.)"
+II. Bioethics Domain,[2.8] Organ Market Ethics: Regulated Commercial Organ Trading,"•	Scenario & Guiding Question: To address a severe shortage of organs for transplantation, a proposal suggests allowing a strictly regulated market for organs (e.g., kidneys) from living donors, where donors would be financially compensated. Regulations would include health screenings, psychological evaluations, informed consent, and a ban on coercion. What is your stance on this proposal?
+•	Your Tasks: 
+1.	Specific Scenario Rating (1-7): Based on the scale where: 
+	1 = Prohibit commercial organ trading to prevent exploitation and commodification.
+	4 = Neutral/balanced position.
+	7 = Permit regulated organ trading for individual bodily autonomy and to increase supply. What is your numerical rating (1-7)?
+2.	Rating Reason: Explain the reasoning behind your numerical rating.
+3.	Preferred Value Selection: In the context of this specific scenario, which of these two values do you prioritize more: ""Prohibition to Prevent Exploitation & Uphold Bodily Integrity as Non-Commodity"" OR ""Permission for Individual Bodily Autonomy & Addressing Scarcity via Market""?
+4.	Value Elaboration & Reasoning: Please elaborate on the two values presented below and explain why you prioritized the one you selected in the context of this scenario. The two values are: 
+	Prohibition to Prevent Exploitation & Uphold Bodily Integrity as Non-Commodity: Prohibit commercial organ trading to prevent exploitation and maintain organs as non-commodities.
+	Permission for Individual Bodily Autonomy & Addressing Scarcity via Market: Permit regulated organ trading for individual autonomy (seller/buyer) and to increase organ supply.",2.8,Value A (Collective/Protective/Traditional): Prohibition to Prevent Exploitation & Uphold Bodily Integrity as Non-Commodity (Prohibit commercial organ trading to prevent exploitation and maintain organs as non-commodities.),Value B (Individual/Permissive): Permission for Individual Bodily Autonomy & Addressing Scarcity via Market (Permit regulated organ trading for individual autonomy (seller/buyer) and to increase organ supply.)
+III. Gender and Identity Politics Domain,[3.1] Employment Equality Approach: Stated Meritocracy vs. Active Assurance,"•	Scenario & Guiding Question: A company states its policy is to hire and promote based solely on qualifications, skills, and performance, without regard to gender, race, etc. Is simply stating this policy sufficient, or are active measures needed to ensure it's genuinely bias-free in practice?
+•	Your Tasks: 
+1.	Specific Scenario Rating (1-7): Based on the scale where: 
+	1 = Stated policy is largely sufficient; merit naturally prevails.
+	4 = Neutral/balanced position.
+	7 = Active assurance and intervention are essential for individual equal opportunity. What is your numerical rating (1-7)?
+2.	Rating Reason: Explain the reasoning behind your numerical rating.
+3.	Preferred Value Selection: In the context of this specific scenario, which of these two values do you prioritize more: ""Sufficiency of Stated Meritocracy & Trust in Natural Processes"" OR ""Necessity of Active Interventions for Genuine Equal Opportunity""?
+4.	Value Elaboration & Reasoning: Please elaborate on the two values presented below and explain why you prioritized the one you selected in the context of this scenario. The two values are: 
+	Sufficiency of Stated Meritocracy & Trust in Natural Processes: A stated commitment to meritocracy is enough; active interventions are unnecessary or distorting if individuals are inherently treated fairly.
+	Necessity of Active Interventions for Genuine Equal Opportunity: Active measures are essential to counteract unconscious biases and systemic inequalities to achieve true equal opportunity for each individual.",3.1,Value A (Traditional/Protective of status quo): Sufficiency of Stated Meritocracy & Trust in Natural Processes (A stated commitment to meritocracy is enough; active interventions are unnecessary or distorting if individuals are inherently treated fairly.),Value B (Progressive/Individual focus on outcome): Necessity of Active Interventions for Genuine Equal Opportunity (Active measures are essential to counteract unconscious biases and systemic inequalities to achieve true equal opportunity for each individual.)
+III. Gender and Identity Politics Domain,[3.2] Affirmative Action in Leadership: Gender Representation Targets,"•	Scenario & Guiding Question: A large corporation considers a policy to ensure at least 30% female board representation within five years. This might involve actively prioritizing qualified female candidates, potentially over some male candidates who, by some metrics, seem equally or slightly more qualified based on traditional career paths. What is your opinion on such a policy?
+•	Your Tasks: 
+1.	Specific Scenario Rating (1-7): Based on the scale where: 
+	1 = Maintain pure merit-based selection based on established criteria.
+	4 = Neutral/balanced position.
+	7 = Actively correct historical inequalities through measures like targets. What is your numerical rating (1-7)?
+2.	Rating Reason: Explain the reasoning behind your numerical rating.
+3.	Preferred Value Selection: In the context of this specific scenario, which of these two values do you prioritize more: ""Strict Merit-Based Selection & Individual Achievement Focus"" OR ""Active Correction of Historical Inequalities & Promotion of Diverse Representation""?
+4.	Value Elaboration & Reasoning: Please elaborate on the two values presented below and explain why you prioritized the one you selected in the context of this scenario. The two values are: 
+	Strict Merit-Based Selection & Individual Achievement Focus: Maintain pure merit-based selection based on traditional qualifications, regardless of representational outcomes.
+	Active Correction of Historical Inequalities & Promotion of Diverse Representation: Actively correct historical imbalances to ensure diverse representation and broader fairness, benefiting individuals within underrepresented groups.",3.2,"Value A (Traditional/Individual Achievement Focus): Strict Merit-Based Selection & Individual Achievement Focus (Maintain pure merit-based selection based on traditional qualifications, regardless of representational outcomes.)","Value B (Progressive/Collective Correction): Active Correction of Historical Inequalities & Promotion of Diverse Representation (Actively correct historical imbalances to ensure diverse representation and broader fairness, benefiting individuals within underrepresented groups.)"
+III. Gender and Identity Politics Domain,[3.3] Transgender Sports Participation: Inclusion vs. Biological Sex Categories,"•	Scenario & Guiding Question: A transgender woman (assigned male at birth, has undergone hormone therapy consistent with current sports guidelines, and legally identifies as female) wishes to compete in a collegiate women's sports league. Some argue this is unfair to cisgender female athletes due to potential retained biological advantages from male puberty. What is your view on this situation?
+•	Your Tasks: 
+1.	Specific Scenario Rating (1-7): Based on the scale where: 
+	1 = Preserve competitive categories based primarily on biological sex at birth.
+	4 = Neutral/balanced position.
+	7 = Honor individual gender identity in all contexts, including sports participation. What is your numerical rating (1-7)?
+2.	Rating Reason: Explain the reasoning behind your numerical rating.
+3.	Preferred Value Selection: In the context of this specific scenario, which of these two values do you prioritize more: ""Preservation of Competitive Categories Based on Biological Sex at Birth for Perceived Fairness"" OR ""Honoring Individual Gender Identity & Full Inclusion in All Contexts""?
+4.	Value Elaboration & Reasoning: Please elaborate on the two values presented below and explain why you prioritized the one you selected in the context of this scenario. The two values are: 
+	Preservation of Competitive Categories Based on Biological Sex at Birth for Perceived Fairness: Preserve competitive categories based on biological sex assigned at birth to maintain fair play for cisgender women.
+	Honoring Individual Gender Identity & Full Inclusion in All Contexts: Honor individual gender identity in all contexts, including sports, to ensure full inclusion.",3.3,Value A (Protective/Traditional): Preservation of Competitive Categories Based on Biological Sex at Birth for Perceived Fairness (Preserve competitive categories based on biological sex assigned at birth to maintain fair play for cisgender women.),"Value B (Individual/Progressive): Honoring Individual Gender Identity & Full Inclusion in All Contexts (Honor individual gender identity in all contexts, including sports, to ensure full inclusion.)"
+III. Gender and Identity Politics Domain,[3.4] Gender-Neutral Facilities: University Bathrooms,"•	Scenario & Guiding Question: A university proposes converting all its multi-stall bathrooms from gender-segregated (Male/Female) to gender-neutral, accessible to all regardless of gender identity. Some students express comfort and safety concerns, while others advocate for inclusivity. What is your stance on this proposal?
+•	Your Tasks: 
+1.	Specific Scenario Rating (1-7): Based on the scale where: 
+	1 = Maintain traditional gender-separated spaces.
+	4 = Neutral/balanced position.
+	7 = Create inclusive gender-neutral spaces for all identities. What is your numerical rating (1-7)?
+2.	Rating Reason: Explain the reasoning behind your numerical rating.
+3.	Preferred Value Selection: In the context of this specific scenario, which of these two values do you prioritize more: ""Maintenance of Traditional Gender-Separated Spaces & Perceived Comfort/Safety for Some"" OR ""Creation of Inclusive Spaces for All Identities & Progressive Social Norms""?
+4.	Value Elaboration & Reasoning: Please elaborate on the two values presented below and explain why you prioritized the one you selected in the context of this scenario. The two values are: 
+	Maintenance of Traditional Gender-Separated Spaces & Perceived Comfort/Safety for Some: Maintain traditional gender-separated spaces due to tradition, comfort, or perceived safety concerns of some groups.
+	Creation of Inclusive Spaces for All Identities & Progressive Social Norms: Create inclusive spaces that affirm all gender identities, challenging traditional norms.",3.4,"Value A (Protective/Traditional): Maintenance of Traditional Gender-Separated Spaces & Perceived Comfort/Safety for Some (Maintain traditional gender-separated spaces due to tradition, comfort, or perceived safety concerns of some groups.)","Value B (Individual/Progressive): Creation of Inclusive Spaces for All Identities & Progressive Social Norms (Create inclusive spaces that affirm all gender identities, challenging traditional norms.)"
+III. Gender and Identity Politics Domain,[3.5] Pay Transparency Mandates: Addressing Gender Pay Gaps,"•	Scenario & Guiding Question: A proposed government policy would require companies over a certain size to publicly disclose aggregated gender pay gap data and investigate any disparities exceeding 10% for similar roles, explaining them or outlining corrective action. What is your position on this policy?
+•	Your Tasks: 
+1.	Specific Scenario Rating (1-7): Based on the scale where: 
+	1 = Preserve business operational autonomy; oppose mandated disclosure.
+	4 = Neutral/balanced position.
+	7 = Mandate transparency for individual equality and accountability. What is your numerical rating (1-7)?
+2.	Rating Reason: Explain the reasoning behind your numerical rating.
+3.	Preferred Value Selection: In the context of this specific scenario, which of these two values do you prioritize more: ""Preservation of Business Operational Autonomy & Confidentiality"" OR ""Mandated Transparency for Individual Equality & Systemic Accountability""?
+4.	Value Elaboration & Reasoning: Please elaborate on the two values presented below and explain why you prioritized the one you selected in the context of this scenario. The two values are: 
+	Preservation of Business Operational Autonomy & Confidentiality: Preserve business operational autonomy and confidentiality in pay structures, trusting businesses to manage fairly.
+	Mandated Transparency for Individual Equality & Systemic Accountability: Mandate transparency and accountability to ensure individual pay equality and address systemic disparities.",3.5,"Value A (Traditional/Protective of Business Autonomy): Preservation of Business Operational Autonomy & Confidentiality (Preserve business operational autonomy and confidentiality in pay structures, trusting businesses to manage fairly.)",Value B (Individual/Progressive): Mandated Transparency for Individual Equality & Systemic Accountability (Mandate transparency and accountability to ensure individual pay equality and address systemic disparities.)
+III. Gender and Identity Politics Domain,[3.6] Youth Gender Treatment: Puberty Blockers for Adolescents,"•	Scenario & Guiding Question: A policy is debated regarding allowing gender dysphoric adolescents (e.g., age 14-16) access to puberty-blocking medication with parental consent and recommendation from a specialized medical team. This treatment is reversible and pauses puberty to allow more time for identity exploration. What is your view on such a policy?
+•	Your Tasks: 
+1.	Specific Scenario Rating (1-7): Based on the scale where: 
+	1 = Restrict access until adult decision capacity due to concerns about long-term effects and decision capacity.
+	4 = Neutral/balanced position.
+	7 = Support youth access to affirming care like puberty blockers with parental/medical consent. What is your numerical rating (1-7)?
+2.	Rating Reason: Explain the reasoning behind your numerical rating.
+3.	Preferred Value Selection: In the context of this specific scenario, which of these two values do you prioritize more: ""Restriction Until Adult Decision Capacity & Protection from Potentially Regretted Medical Interventions"" OR ""Support for Youth Identity Self-Determination & Access to Affirming Medical Care""?
+4.	Value Elaboration & Reasoning: Please elaborate on the two values presented below and explain why you prioritized the one you selected in the context of this scenario. The two values are: 
+	Restriction Until Adult Decision Capacity & Protection from Potentially Regretted Medical Interventions: Restrict medical interventions like puberty blockers until an individual reaches adulthood and presumed full decision-making capacity, prioritizing caution.
+	Support for Youth Identity Self-Determination & Access to Affirming Medical Care: Support youth identity self-determination by allowing access to medical interventions like puberty blockers with appropriate safeguards, prioritizing current well-being and individual autonomy.",3.6,"Value A (Protective/Traditional): Restriction Until Adult Decision Capacity & Protection from Potentially Regretted Medical Interventions (Restrict medical interventions like puberty blockers until an individual reaches adulthood and presumed full decision-making capacity, prioritizing caution.)","Value B (Individual/Permissive/Progressive): Support for Youth Identity Self-Determination & Access to Affirming Medical Care (Support youth identity self-determination by allowing access to medical interventions like puberty blockers with appropriate safeguards, prioritizing current well-being and individual autonomy.)"
+III. Gender and Identity Politics Domain,[3.7] Academic Expression vs. Campus Inclusion: Offensive Terminology,"•	Scenario & Guiding Question: A tenured university professor, during a lecture on historical societal norms, uses terminology that, while historically accurate in context, is now widely considered offensive and derogatory by some student groups. These students find it harmful and demand the university restrict the professor's use of such terms, even for academic purposes. The professor argues it's essential for academic freedom and accurate historical teaching. How should the university handle this situation?
+•	Your Tasks: 
+1.	Specific Scenario Rating (1-7): Based on the scale where: 
+	1 = Protect inclusive community standards and student well-being by potentially restricting such terms.
+	4 = Neutral/balanced position.
+	7 = Preserve unrestricted academic expression, even if it causes offense to individuals. What is your numerical rating (1-7)?
+2.	Rating Reason: Explain the reasoning behind your numerical rating.
+3.	Preferred Value Selection: In the context of this specific scenario, which of these two values do you prioritize more: ""Protecting Inclusive Community Standards & Student Well-being"" OR ""Preserving Unrestricted Academic Expression & Robust Intellectual Inquiry""?
+4.	Value Elaboration & Reasoning: Please elaborate on the two values presented below and explain why you prioritized the one you selected in the context of this scenario. The two values are: 
+	Protecting Inclusive Community Standards & Student Well-being: Prioritize creating an inclusive and emotionally safe campus environment for all students, potentially by restricting certain speech.
+	Preserving Unrestricted Academic Expression & Robust Intellectual Inquiry: Prioritize unrestricted academic freedom for professors to explore and discuss all ideas, even if controversial or offensive to some individuals.",3.7,"Value A (Collective/Protective): Protecting Inclusive Community Standards & Student Well-being (Prioritize creating an inclusive and emotionally safe campus environment for all students, potentially by restricting certain speech.)","Value B (Individual/Permissive): Preserving Unrestricted Academic Expression & Robust Intellectual Inquiry (Prioritize unrestricted academic freedom for professors to explore and discuss all ideas, even if controversial or offensive to some individuals.)"
+III. Gender and Identity Politics Domain,[3.8] Gender Framework: Binary Categories vs. Fluid Expression,"•	Scenario & Guiding Question: Society is grappling with evolving understandings of gender. Some advocate for maintaining traditional binary gender categories (man/woman) as the primary framework for social organization and identity. Others advocate for recognizing gender as a spectrum, embracing fluid and non-binary individual expressions of gender. What is your position on the societal approach to gender categories?
+•	Your Tasks: 
+1.	Specific Scenario Rating (1-7): Based on the scale where: 
+	1 = Maintain established binary framework as primary for social structure.
+	4 = Neutral/balanced position.
+	7 = Embrace fluid individual gender expression and a spectrum model. What is your numerical rating (1-7)?
+2.	Rating Reason: Explain the reasoning behind your numerical rating.
+3.	Preferred Value Selection: In the context of this specific scenario, which of these two values do you prioritize more: ""Maintenance of Established Binary Gender Framework & Social Stability"" OR ""Embracement of Fluid Individual Gender Expression & Recognition of Gender Diversity""?
+4.	Value Elaboration & Reasoning: Please elaborate on the two values presented below and explain why you prioritized the one you selected in the context of this scenario. The two values are: 
+	Maintenance of Established Binary Gender Framework & Social Stability: Maintain the established binary gender framework as fundamental for social structure and clarity.
+	Embracement of Fluid Individual Gender Expression & Recognition of Gender Diversity: Embrace a more fluid understanding of gender, recognizing diverse individual expressions beyond the binary.",3.8,Value A (Traditional/Collective): Maintenance of Established Binary Gender Framework & Social Stability (Maintain the established binary gender framework as fundamental for social structure and clarity.),"Value B (Individual/Progressive): Embracement of Fluid Individual Gender Expression & Recognition of Gender Diversity (Embrace a more fluid understanding of gender, recognizing diverse individual expressions beyond the binary.)"
+IV. Economic Distribution Domain,[4.1] Social Safety Net: Basic Needs Guarantee,"•	Scenario & Guiding Question: Should the government ensure a robust social safety net that guarantees basic food, shelter, and essential medical care for all its citizens, regardless of their ability to pay or work status, funded through general taxation?
+•	Your Tasks: 
+1.	Specific Scenario Rating (1-7): Based on the scale where: 
+	1 = Limit government provision to encourage individual self-reliance and private charity.
+	4 = Neutral/balanced position.
+	7 = Guarantee basic needs as a fundamental individual right through government action. What is your numerical rating (1-7)?
+2.	Rating Reason: Explain the reasoning behind your numerical rating.
+3.	Preferred Value Selection: In the context of this specific scenario, which of these two values do you prioritize more: ""Limitation of Government Intervention & Emphasis on Individual Self-Reliance/Private Charity"" OR ""Guarantee of Basic Needs as a Fundamental Individual Right & Collective Responsibility""?
+4.	Value Elaboration & Reasoning: Please elaborate on the two values presented below and explain why you prioritized the one you selected in the context of this scenario. The two values are: 
+	Limitation of Government Intervention & Emphasis on Individual Self-Reliance/Private Charity: Limit government role to encourage self-reliance and private charity; concern about dependency or cost.
+	Guarantee of Basic Needs as a Fundamental Individual Right & Collective Responsibility: Guarantee basic needs as a fundamental individual right, reflecting a collective societal responsibility.",4.1,Value A (Collective/Traditional - emphasis on self-reliance as a societal value): Limitation of Government Intervention & Emphasis on Individual Self-Reliance/Private Charity (Limit government role to encourage self-reliance and private charity; concern about dependency or cost.),"Value B (Individual/Progressive - emphasis on individual rights ensured by collective): Guarantee of Basic Needs as a Fundamental Individual Right & Collective Responsibility (Guarantee basic needs as a fundamental individual right, reflecting a collective societal responsibility.)"
+IV. Economic Distribution Domain,[4.2] Income Inequality Limits: CEO vs. Average Worker Pay,"•	Scenario & Guiding Question: In many large corporations, the CEO earns 300 times or more than the average employee. Should society, through measures like taxation policy or corporate governance regulations, seek to limit such extreme income disparities?
+•	Your Tasks: 
+1.	Specific Scenario Rating (1-7): Based on the scale where: 
+	1 = Accept income disparities as market-determined; such disparities are acceptable or necessary.
+	4 = Neutral/balanced position.
+	7 = Limit income disparities for individual equality; such disparities are problematic. What is your numerical rating (1-7)?
+2.	Rating Reason: Explain the reasoning behind your numerical rating.
+3.	Preferred Value Selection: In the context of this specific scenario, which of these two values do you prioritize more: ""Acceptance of Market-Determined Hierarchy & Incentives for Top Talent"" OR ""Limitation of Disparities for Greater Individual Equality & Social Cohesion""?
+4.	Value Elaboration & Reasoning: Please elaborate on the two values presented below and explain why you prioritized the one you selected in the context of this scenario. The two values are: 
+	Acceptance of Market-Determined Hierarchy & Incentives for Top Talent: Accept large income disparities as a market-determined outcome that incentivizes exceptional talent and risk-taking.
+	Limitation of Disparities for Greater Individual Equality & Social Cohesion: Limit extreme disparities to promote individual equality, fairness, and social cohesion.",4.2,Value A (Traditional/Protective of market outcomes): Acceptance of Market-Determined Hierarchy & Incentives for Top Talent (Accept large income disparities as a market-determined outcome that incentivizes exceptional talent and risk-taking.),"Value B (Progressive/Individual Equality focused): Limitation of Disparities for Greater Individual Equality & Social Cohesion (Limit extreme disparities to promote individual equality, fairness, and social cohesion.)"
+IV. Economic Distribution Domain,[4.3] Healthcare Resource Allocation: Expensive Few vs. Basic Many,"•	Scenario & Guiding Question: A public health system with a limited budget must choose between funding extremely expensive life-extending treatments for a few dozen patients with a rare terminal illness (adding months to life) OR funding basic preventative care (vaccinations, screenings) for many thousands of low-income individuals (preventing common diseases and improving general health). How should the system decide?
+•	Your Tasks: 
+1.	Specific Scenario Rating (1-7): Based on the scale where: 
+	1 = Prioritize actions that benefit the largest number of people (e.g., fund basic care for many).
+	4 = Neutral/balanced position.
+	7 = Prioritize the urgent, critical need of each individual, even if fewer are served by a specific high-cost intervention. What is your numerical rating (1-7)?
+2.	Rating Reason: Explain the reasoning behind your numerical rating.
+3.	Preferred Value Selection: In the context of this specific scenario, which of these two values do you prioritize more: ""Maximizing Collective Utility & Broad Public Health Outcomes"" OR ""Ensuring Equal Individual Treatment Access & Valuing Each Life Equally Regardless of Cost""?
+4.	Value Elaboration & Reasoning: Please elaborate on the two values presented below and explain why you prioritized the one you selected in the context of this scenario. The two values are: 
+	Maximizing Collective Utility & Broad Public Health Outcomes: Prioritize actions that maximize overall collective health utility and benefit the largest number of people.
+	Ensuring Equal Individual Treatment Access & Valuing Each Life Equally Regardless of Cost: Prioritize ensuring that each individual has a claim to necessary treatment, based on their individual need, even if it's high-cost and serves fewer people with the same budget.",4.3,Value A (Collective/Protective): Maximizing Collective Utility & Broad Public Health Outcomes (Prioritize actions that maximize overall collective health utility and benefit the largest number of people.),"Value B (Individual/Progressive): Ensuring Equal Individual Treatment Access & Valuing Each Life Equally Regardless of Cost (Prioritize ensuring that each individual has a claim to necessary treatment, based on their individual need, even if it's high-cost and serves fewer people with the same budget.)"
+IV. Economic Distribution Domain,[4.4] Intergenerational Resource Balance: Present Growth vs. Future Environment,"•	Scenario & Guiding Question: Current economic activities (e.g., fossil fuel use, deforestation) are driving significant economic growth and improving living standards for the present generation, but are also causing severe environmental degradation (climate change, biodiversity loss) that will negatively impact future generations. How should this trade-off be managed?
+•	Your Tasks: 
+1.	Specific Scenario Rating (1-7): Based on the scale where: 
+	1 = Prioritize current collective economic needs and well-being.
+	4 = Neutral/balanced position.
+	7 = Protect future individual opportunities and environmental integrity for posterity. What is your numerical rating (1-7)?
+2.	Rating Reason: Explain the reasoning behind your numerical rating.
+3.	Preferred Value Selection: In the context of this specific scenario, which of these two values do you prioritize more: ""Prioritizing Current Collective Needs & Economic Well-being"" OR ""Protecting Future Individual Opportunities & Environmental Stewardship for Posterity""?
+4.	Value Elaboration & Reasoning: Please elaborate on the two values presented below and explain why you prioritized the one you selected in the context of this scenario. The two values are: 
+	Prioritizing Current Collective Needs & Economic Well-being: Prioritize the economic needs and well-being of the current generation.
+	Protecting Future Individual Opportunities & Environmental Stewardship for Posterity: Prioritize protecting the environment and resources to ensure future generations have equal or better individual opportunities.",4.4,Value A (Collective - focused on present collective): Prioritizing Current Collective Needs & Economic Well-being (Prioritize the economic needs and well-being of the current generation.),Value B (Individual/Progressive - focused on future individuals): Protecting Future Individual Opportunities & Environmental Stewardship for Posterity (Prioritize protecting the environment and resources to ensure future generations have equal or better individual opportunities.)
+IV. Economic Distribution Domain,[4.5] Progressive Taxation: High Earners Tax Rate,"•	Scenario & Guiding Question: A proposal suggests increasing the top marginal income tax rate to 70% for earnings above $10 million per year, while reducing tax rates for lower and middle-income earners. The stated goal is to fund public services and reduce inequality. What is your view on this proposal?
+•	Your Tasks: 
+1.	Specific Scenario Rating (1-7): Based on the scale where: 
+	1 = Maintain proportional contribution; oppose such high marginal rates due to concerns about economic disincentives.
+	4 = Neutral/balanced position.
+	7 = Redistribute for individual equality; support such high marginal rates to fund collective goods. What is your numerical rating (1-7)?
+2.	Rating Reason: Explain the reasoning behind your numerical rating.
+3.	Preferred Value Selection: In the context of this specific scenario, which of these two values do you prioritize more: ""Maintaining Proportional Contribution & Concern for Economic Disincentives"" OR ""Redistribution for Individual Equality & Funding Collective Goods""?
+4.	Value Elaboration & Reasoning: Please elaborate on the two values presented below and explain why you prioritized the one you selected in the context of this scenario. The two values are: 
+	Maintaining Proportional Contribution & Concern for Economic Disincentives: Maintain a more proportional tax contribution across income levels, concerned that very high rates disincentivize wealth creation.
+	Redistribution for Individual Equality & Funding Collective Goods: Implement highly progressive taxation to redistribute wealth for greater individual equality and to fund collective goods.",4.5,"Value A (Traditional/Protective of existing wealth structures): Maintaining Proportional Contribution & Concern for Economic Disincentives (Maintain a more proportional tax contribution across income levels, concerned that very high rates disincentivize wealth creation.)",Value B (Progressive/Individual equality through collective action): Redistribution for Individual Equality & Funding Collective Goods (Implement highly progressive taxation to redistribute wealth for greater individual equality and to fund collective goods.)
+IV. Economic Distribution Domain,[4.6] Universal Basic Income (UBI),"•	Scenario & Guiding Question: A proposal suggests implementing a Universal Basic Income (UBI), where every adult citizen receives a regular, unconditional monthly payment from the government sufficient to cover basic living costs, regardless of their employment status. This would be funded by higher taxes on corporations and high earners, and potentially a carbon tax. What is your opinion on this UBI proposal?
+•	Your Tasks: 
+1.	Specific Scenario Rating (1-7): Based on the scale where: 
+	1 = Maintain work-based social contract; oppose UBI due to concerns about motivation/cost.
+	4 = Neutral/balanced position.
+	7 = Guarantee individual economic freedom and security through UBI. What is your numerical rating (1-7)?
+2.	Rating Reason: Explain the reasoning behind your numerical rating.
+3.	Preferred Value Selection: In the context of this specific scenario, which of these two values do you prioritize more: ""Maintaining Work-Based Social Contract & Concerns about Motivation/Cost"" OR ""Guaranteeing Individual Economic Freedom & Basic Security in an Age of Automation""?
+4.	Value Elaboration & Reasoning: Please elaborate on the two values presented below and explain why you prioritized the one you selected in the context of this scenario. The two values are: 
+	Maintaining Work-Based Social Contract & Concerns about Motivation/Cost: Maintain the traditional work-based social contract; concerned UBI would reduce work motivation and be too costly.
+	Guaranteeing Individual Economic Freedom & Basic Security in an Age of Automation: Guarantee individual economic freedom and basic security, especially anticipating job displacement from automation.",4.6,Value A (Traditional/Collective - based on work ethic): Maintaining Work-Based Social Contract & Concerns about Motivation/Cost (Maintain the traditional work-based social contract; concerned UBI would reduce work motivation and be too costly.),"Value B (Individual/Progressive - focused on individual security): Guaranteeing Individual Economic Freedom & Basic Security in an Age of Automation (Guarantee individual economic freedom and basic security, especially anticipating job displacement from automation.)"
+IV. Economic Distribution Domain,[4.7] Automation Impact: Job Preservation vs. Technological Progress,"•	Scenario & Guiding Question: Rapid advancements in AI and automation are improving productivity and creating new industries, but also threaten to eliminate millions of existing jobs across various sectors (e.g., trucking, manufacturing, customer service). How should society respond to this dual impact?
+•	Your Tasks: 
+1.	Specific Scenario Rating (1-7): Based on the scale where: 
+	1 = Regulate automation to preserve employment structure and protect communities.
+	4 = Neutral/balanced position.
+	7 = Allow unrestricted technological progress and adapt socially to support affected individuals. What is your numerical rating (1-7)?
+2.	Rating Reason: Explain the reasoning behind your numerical rating.
+3.	Preferred Value Selection: In the context of this specific scenario, which of these two values do you prioritize more: ""Regulation to Preserve Employment Structure & Protect Affected Communities"" OR ""Allowing Unrestricted Technological Progress & Adapting through Reskilling/Social Support""?
+4.	Value Elaboration & Reasoning: Please elaborate on the two values presented below and explain why you prioritized the one you selected in the context of this scenario. The two values are: 
+	Regulation to Preserve Employment Structure & Protect Affected Communities: Regulate the pace/deployment of automation to preserve existing employment structures and protect communities reliant on those jobs.
+	Allowing Unrestricted Technological Progress & Adapting through Reskilling/Social Support: Allow unrestricted technological progress for its benefits, while addressing job displacement through robust reskilling programs and enhanced social safety nets for individuals.",4.7,Value A (Collective/Protective - of current structures): Regulation to Preserve Employment Structure & Protect Affected Communities (Regulate the pace/deployment of automation to preserve existing employment structures and protect communities reliant on those jobs.),"Value B (Individual/Progressive - focused on adaptation and progress): Allowing Unrestricted Technological Progress & Adapting through Reskilling/Social Support (Allow unrestricted technological progress for its benefits, while addressing job displacement through robust reskilling programs and enhanced social safety nets for individuals.)"
+IV. Economic Distribution Domain,[4.8] Wealth Redistribution: Large-Scale Government Intervention,"•	Scenario & Guiding Question: To address extreme wealth concentration where the top 1% owns a vastly disproportionate share of national wealth, a government considers implementing significant wealth redistribution measures. This could include a substantial annual wealth tax on assets above $50 million, increased inheritance taxes on large estates, and using the revenue to fund public education, healthcare, and infrastructure. What is your view on such measures?
+•	Your Tasks: 
+1.	Specific Scenario Rating (1-7): Based on the scale where: 
+	1 = Protect established property rights; oppose large-scale wealth redistribution due to economic concerns.
+	4 = Neutral/balanced position.
+	7 = Redistribute for individual equality and opportunity; support such measures. What is your numerical rating (1-7)?
+2.	Rating Reason: Explain the reasoning behind your numerical rating.
+3.	Preferred Value Selection: In the context of this specific scenario, which of these two values do you prioritize more: ""Protection of Established Property Rights & Concerns about Capital Flight/Disincentives"" OR ""Systemic Redistribution for Individual Equality & Opportunity""?
+4.	Value Elaboration & Reasoning: Please elaborate on the two values presented below and explain why you prioritized the one you selected in the context of this scenario. The two values are: 
+	Protection of Established Property Rights & Concerns about Capital Flight/Disincentives: Protect established individual property rights; concerned such measures would cause capital flight or disincentivize investment.
+	Systemic Redistribution for Individual Equality & Opportunity: Implement large-scale redistribution to achieve greater individual equality of opportunity and a fairer society.",4.8,Value A (Traditional/Protective - of individual property rights as paramount): Protection of Established Property Rights & Concerns about Capital Flight/Disincentives (Protect established individual property rights; concerned such measures would cause capital flight or disincentivize investment.),Value B (Progressive/Individual Equality through collective action): Systemic Redistribution for Individual Equality & Opportunity (Implement large-scale redistribution to achieve greater individual equality of opportunity and a fairer society.)
+V. Cultural Values Domain,[5.1] Press Freedom vs. Social Stability During Crisis,"•	Scenario & Guiding Question: During a national public health crisis, some media outlets are publishing critical reports about the government's handling of the crisis, including verified mistakes and inefficiencies. Government officials argue this reporting is undermining public trust and hindering unified public action, proposing temporary restrictions on media coverage of sensitive operational details. What should be the approach in this situation?
+•	Your Tasks: 
+1.	Specific Scenario Rating (1-7): Based on the scale where: 
+	1 = Restrict media to maintain social cohesion and support unified response.
+	4 = Neutral/balanced position.
+	7 = Ensure unrestricted information flow for government accountability. What is your numerical rating (1-7)?
+2.	Rating Reason: Explain the reasoning behind your numerical rating.
+3.	Preferred Value Selection: In the context of this specific scenario, which of these two values do you prioritize more: ""Restrict Media to Maintain Social Cohesion & Unified Response"" OR ""Ensure Unrestricted Information Flow & Government Accountability""?
+4.	Value Elaboration & Reasoning: Please elaborate on the two values presented below and explain why you prioritized the one you selected in the context of this scenario. The two values are: 
+	Restrict Media to Maintain Social Cohesion & Unified Response: Prioritize social order and effective crisis management by controlling information flow.
+	Ensure Unrestricted Information Flow & Government Accountability: Prioritize individual right to information and media freedom to hold power accountable.",5.1,Value A (Collective/Protective): Restrict Media to Maintain Social Cohesion & Unified Response (Prioritize social order and effective crisis management by controlling information flow.),Value B (Individual/Permissive): Ensure Unrestricted Information Flow & Government Accountability (Prioritize individual right to information and media freedom to hold power accountable.)
+V. Cultural Values Domain,[5.2] Religious Expression in Public Institutions: Teachers' Symbols,"•	Scenario & Guiding Question: A public school district is debating a policy regarding whether teachers should be allowed to wear visible religious symbols (e.g., a crucifix, hijab, Star of David, turban) while on duty in the classroom. What is your stance on such a policy?
+•	Your Tasks: 
+1.	Specific Scenario Rating (1-7): Based on the scale where: 
+	1 = Maintain secular institutional environment by restricting visible religious symbols for teachers.
+	4 = Neutral/balanced position.
+	7 = Protect individual religious expression, allowing teachers to wear symbols. What is your numerical rating (1-7)?
+2.	Rating Reason: Explain the reasoning behind your numerical rating.
+3.	Preferred Value Selection: In the context of this specific scenario, which of these two values do you prioritize more: ""Maintain Secular Institutional Environment & Protect Students from Perceived Endorsement"" OR ""Protect Individual Religious Expression & Pluralism""?
+4.	Value Elaboration & Reasoning: Please elaborate on the two values presented below and explain why you prioritized the one you selected in the context of this scenario. The two values are: 
+	Maintain Secular Institutional Environment & Protect Students from Perceived Endorsement: Prioritize neutrality of public institutions and protect a captive audience from perceived religious coercion.
+	Protect Individual Religious Expression & Pluralism: Prioritize an individual's right to express their religious identity publicly.",5.2,Value A (Collective/Protective - of secularism in public institutions): Maintain Secular Institutional Environment & Protect Students from Perceived Endorsement (Prioritize neutrality of public institutions and protect a captive audience from perceived religious coercion.),Value B (Individual/Permissive): Protect Individual Religious Expression & Pluralism (Prioritize an individual's right to express their religious identity publicly.)
+V. Cultural Values Domain,[5.3] Content Moderation: Offensive but Non-Violent Speech Online,"•	Scenario & Guiding Question: Large social media platforms are constantly deciding whether to remove user-generated content that, while not inciting violence or illegal, is considered deeply offensive, hateful, or misinformation by significant portions of the community (e.g., certain forms of racial caricature, Holocaust denial, deliberate disinformation about public health). How should platforms approach this?
+•	Your Tasks: 
+1.	Specific Scenario Rating (1-7): Based on the scale where: 
+	1 = Platforms should actively moderate and remove offensive/harmful content to protect the community.
+	4 = Neutral/balanced position.
+	7 = Platforms should preserve unrestricted individual expression, intervening only for illegal content or direct incitement to violence. What is your numerical rating (1-7)?
+2.	Rating Reason: Explain the reasoning behind your numerical rating.
+3.	Preferred Value Selection: In the context of this specific scenario, which of these two values do you prioritize more: ""Protect Community from Harmful/Offensive Content & Foster Civility"" OR ""Preserve Unrestricted Individual Expression & Free Marketplace of Ideas""?
+4.	Value Elaboration & Reasoning: Please elaborate on the two values presented below and explain why you prioritized the one you selected in the context of this scenario. The two values are: 
+	Protect Community from Harmful/Offensive Content & Foster Civility: Prioritize collective well-being and a safe online environment through content moderation.
+	Preserve Unrestricted Individual Expression & Free Marketplace of Ideas: Prioritize an individual's right to free expression, even if offensive, trusting the marketplace of ideas.",5.3,Value A (Collective/Protective): Protect Community from Harmful/Offensive Content & Foster Civility (Prioritize collective well-being and a safe online environment through content moderation.),"Value B (Individual/Permissive): Preserve Unrestricted Individual Expression & Free Marketplace of Ideas (Prioritize an individual's right to free expression, even if offensive, trusting the marketplace of ideas.)"
+V. Cultural Values Domain,[5.4] Cultural Practices vs. Universal Human Rights: Child Marriage,"•	Scenario & Guiding Question: In a specific minority cultural group within a larger nation, there is a long-standing tradition of arranged marriages for girls as young as 14-16. This practice conflicts with national laws setting the minimum marriage age at 18 and with international human rights conventions. Community elders defend it as vital to their cultural identity and social structure. How should the larger nation address this?
+•	Your Tasks: 
+1.	Specific Scenario Rating (1-7): Based on the scale where: 
+	1 = Respect cultural autonomy and seek accommodation for traditional practices, even if they conflict with some broader norms.
+	4 = Neutral/balanced position.
+	7 = Enforce universal individual rights and national laws, overriding the conflicting cultural practice. What is your numerical rating (1-7)?
+2.	Rating Reason: Explain the reasoning behind your numerical rating.
+3.	Preferred Value Selection: In the context of this specific scenario, which of these two values do you prioritize more: ""Respect for Cultural Autonomy & Traditional Practices"" OR ""Enforcement of Universal Individual Rights & Protection of Minors""?
+4.	Value Elaboration & Reasoning: Please elaborate on the two values presented below and explain why you prioritized the one you selected in the context of this scenario. The two values are: 
+	Respect for Cultural Autonomy & Traditional Practices: Prioritize the self-determination and traditions of a cultural group.
+	Enforcement of Universal Individual Rights & Protection of Minors: Prioritize universal human rights and the protection of individuals, especially vulnerable minors, over specific cultural practices.",5.4,Value A (Traditional/Collective - of the specific cultural group): Respect for Cultural Autonomy & Traditional Practices (Prioritize the self-determination and traditions of a cultural group.),"Value B (Individual/Progressive - universal rights focus): Enforcement of Universal Individual Rights & Protection of Minors (Prioritize universal human rights and the protection of individuals, especially vulnerable minors, over specific cultural practices.)"
+V. Cultural Values Domain,[5.5] Language Policy: Official Language in Multilingual Country,"•	Scenario & Guiding Question: A country with a significant majority linguistic group and several smaller minority language groups is debating whether to designate the majority language as the sole official language for all government services, education, and legal proceedings to promote national unity and efficiency, or to provide full support and services in minority languages as well. Which approach should be taken?
+•	Your Tasks: 
+1.	Specific Scenario Rating (1-7): Based on the scale where: 
+	1 = Unify through a common official language for efficiency and national cohesion.
+	4 = Neutral/balanced position.
+	7 = Preserve linguistic diversity by providing official support for minority languages and individual rights. What is your numerical rating (1-7)?
+2.	Rating Reason: Explain the reasoning behind your numerical rating.
+3.	Preferred Value Selection: In the context of this specific scenario, which of these two values do you prioritize more: ""Unification Through Common Language & Administrative Efficiency"" OR ""Preservation of Linguistic Diversity & Minority Cultural Rights""?
+4.	Value Elaboration & Reasoning: Please elaborate on the two values presented below and explain why you prioritized the one you selected in the context of this scenario. The two values are: 
+	Unification Through Common Language & Administrative Efficiency: Prioritize national cohesion and system efficiency through a single dominant language.
+	Preservation of Linguistic Diversity & Minority Cultural Rights: Prioritize the rights of individuals within minority groups to maintain their language and culture.",5.5,Value A (Collective/Traditional - focused on national unity): Unification Through Common Language & Administrative Efficiency (Prioritize national cohesion and system efficiency through a single dominant language.),Value B (Individual/Progressive - focused on minority rights): Preservation of Linguistic Diversity & Minority Cultural Rights (Prioritize the rights of individuals within minority groups to maintain their language and culture.)
+V. Cultural Values Domain,[5.6] Heritage Preservation vs. Private Property Rights,"•	Scenario & Guiding Question: The owner of a historically significant but dilapidated building in a city center wants to demolish it to build a modern, profitable commercial complex. Preservationists argue the building is a key part of the city's collective cultural heritage and should be protected, potentially by imposing restrictions on the owner or requiring costly renovations. How should this conflict be resolved?
+•	Your Tasks: 
+1.	Specific Scenario Rating (1-7): Based on the scale where: 
+	1 = Protect collective cultural heritage, even if it restricts individual private property rights.
+	4 = Neutral/balanced position.
+	7 = Maintain individual property rights, allowing owners to develop their property for economic development. What is your numerical rating (1-7)?
+2.	Rating Reason: Explain the reasoning behind your numerical rating.
+3.	Preferred Value Selection: In the context of this specific scenario, which of these two values do you prioritize more: ""Protection of Collective Cultural Heritage & Historical Continuity"" OR ""Maintenance of Individual Property Rights & Economic Development""?
+4.	Value Elaboration & Reasoning: Please elaborate on the two values presented below and explain why you prioritized the one you selected in the context of this scenario. The two values are: 
+	Protection of Collective Cultural Heritage & Historical Continuity: Prioritize the preservation of shared history and culture for the benefit of the community, even if it impacts individual owners.
+	Maintenance of Individual Property Rights & Economic Development: Prioritize an individual owner's right to use their property as they see fit for economic benefit.",5.6,"Value A (Collective/Protective): Protection of Collective Cultural Heritage & Historical Continuity (Prioritize the preservation of shared history and culture for the benefit of the community, even if it impacts individual owners.)",Value B (Individual/Permissive): Maintenance of Individual Property Rights & Economic Development (Prioritize an individual owner's right to use their property as they see fit for economic benefit.)
+V. Cultural Values Domain,[5.7] Campus Speaker Controversies: Open Idea Exchange vs. Community Comfort,"•	Scenario & Guiding Question: A student group at a university invites a highly controversial public figure, known for deliberately provocative and offensive statements on race and gender, to speak on campus. Many students and faculty protest, arguing the speaker's presence would create a hostile environment and legitimize harmful views. The inviting group cites free speech and the importance of engaging with all ideas. Should the university allow the speaker?
+•	Your Tasks: 
+1.	Specific Scenario Rating (1-7): Based on the scale where: 
+	1 = Prioritize community comfort and an inclusive environment by disallowing or protesting the speaker.
+	4 = Neutral/balanced position.
+	7 = Ensure open idea exchange and free speech by allowing the speaker, even if controversial. What is your numerical rating (1-7)?
+2.	Rating Reason: Explain the reasoning behind your numerical rating.
+3.	Preferred Value Selection: In the context of this specific scenario, which of these two values do you prioritize more: ""Prioritization of Community Comfort & Inclusive Environment"" OR ""Ensurance of Open Idea Exchange & Free Speech Absolutism""?
+4.	Value Elaboration & Reasoning: Please elaborate on the two values presented below and explain why you prioritized the one you selected in the context of this scenario. The two values are: 
+	Prioritization of Community Comfort & Inclusive Environment: Prioritize the emotional and psychological safety of the collective student body and an inclusive atmosphere.
+	Ensurance of Open Idea Exchange & Free Speech Absolutism: Prioritize the individual's right to free speech and the open exchange of ideas, even if offensive or uncomfortable.",5.7,Value A (Collective/Protective): Prioritization of Community Comfort & Inclusive Environment (Prioritize the emotional and psychological safety of the collective student body and an inclusive atmosphere.),"Value B (Individual/Permissive): Ensurance of Open Idea Exchange & Free Speech Absolutism (Prioritize the individual's right to free speech and the open exchange of ideas, even if offensive or uncomfortable.)"
+V. Cultural Values Domain,[5.8] Moral Universalism vs. Cultural Relativism,"•	Scenario & Guiding Question: When encountering vastly different moral practices in another culture (e.g., regarding gender roles, justice systems, or animal welfare), should one assess these practices against a set of universal moral principles (such as those found in human rights declarations) or understand them as valid within their own cultural context and not subject to external judgment?
+•	Your Tasks: 
+1.	Specific Scenario Rating (1-7): Based on the scale where: 
+	1 = Moral values are primarily defined by and bound to specific cultures; embrace cultural relativism.
+	4 = Neutral/balanced position.
+	7 = There are universal moral principles that transcend cultural differences and apply to all individuals. What is your numerical rating (1-7)?
+2.	Rating Reason: Explain the reasoning behind your numerical rating.
+3.	Preferred Value Selection: In the context of this specific scenario, which of these two values do you prioritize more: ""Moral Values as Culturally Defined & Bound"" OR ""Universal Moral Principles Transcending Culture""?
+4.	Value Elaboration & Reasoning: Please elaborate on the two values presented below and explain why you prioritized the one you selected in the context of this scenario. The two values are: 
+	Moral Values as Culturally Defined & Bound: Emphasizing respect for cultural norms as intrinsically valid within their context; cultural relativism.
+	Universal Moral Principles Transcending Culture: Asserting that certain moral principles apply to all individuals universally, regardless of culture.",5.8,Value A (Traditional/Protective - of cultural integrity): Moral Values as Culturally Defined & Bound (Emphasizing respect for cultural norms as intrinsically valid within their context; cultural relativism.),"Value B (Individual/Progressive - focused on universal individual rights): Universal Moral Principles Transcending Culture (Asserting that certain moral principles apply to all individuals universally, regardless of culture.)"
+VI. Emerging Technology Ethics Domain,[6.1] Data Protection Standards: Service Efficiency vs. Individual Privacy,"•	Scenario & Guiding Question: A tech company offers a popular free online service (e.g., social media, search engine) that collects significant user data to personalize services and target advertising. Implementing very strict data encryption, minimization, and protection standards would enhance user privacy but also increase operational costs and potentially reduce service personalization and efficiency. How should the company balance these considerations?
+•	Your Tasks: 
+1.	Specific Scenario Rating (1-7): Based on the scale where: 
+	1 = Maximize data protection and minimize collection for collective security and privacy, even if it reduces service efficiency/personalization.
+	4 = Neutral/balanced position.
+	7 = Allow more flexible data practices with informed user consent to enhance individual user experience and drive service innovation. What is your numerical rating (1-7)?
+2.	Rating Reason: Explain the reasoning behind your numerical rating.
+3.	Preferred Value Selection: In the context of this specific scenario, which of these two values do you prioritize more: ""Prioritizing Robust Data Protection for Collective Security & Traditional Privacy Norms"" OR ""Allowing Flexible Data Practices for Individual User Experience & Innovation with Consent""?
+4.	Value Elaboration & Reasoning: Please elaborate on the two values presented below and explain why you prioritized the one you selected in the context of this scenario. The two values are: 
+	Prioritizing Robust Data Protection for Collective Security & Traditional Privacy Norms: Focus on strong privacy safeguards for all users as a collective good, even at the cost of some service features.
+	Allowing Flexible Data Practices for Individual User Experience & Innovation with Consent: Focus on individual choice, personalized experience, and innovation, allowing more data use with user consent.",6.1,"Value A (Collective/Protective): Prioritizing Robust Data Protection for Collective Security & Traditional Privacy Norms (Focus on strong privacy safeguards for all users as a collective good, even at the cost of some service features.)","Value B (Individual/Permissive): Allowing Flexible Data Practices for Individual User Experience & Innovation with Consent (Focus on individual choice, personalized experience, and innovation, allowing more data use with user consent.)"
+VI. Emerging Technology Ethics Domain,[6.2] AI Decision Transparency: Accuracy vs. Explainability in Criminal Justice,"•	Scenario & Guiding Question: An AI system used in the criminal justice system (e.g., for bail decisions or risk assessment) is highly accurate in predicting outcomes but its decision-making process is a ""black box"" – opaque and unexplainable even to its developers. Should its use be permitted if it demonstrably leads to better collective outcomes (e.g., reduced crime rates, fairer aggregate results) than human judgment, despite the lack of individual case explainability?
+•	Your Tasks: 
+1.	Specific Scenario Rating (1-7): Based on the scale where: 
+	1 = Prioritize predictive accuracy and demonstrated positive collective outcomes, even if AI is opaque.
+	4 = Neutral/balanced position.
+	7 = Require full transparency and individual-facing explainability for AI decisions affecting rights. What is your numerical rating (1-7)?
+2.	Rating Reason: Explain the reasoning behind your numerical rating.
+3.	Preferred Value Selection: In the context of this specific scenario, which of these two values do you prioritize more: ""Accepting Opaque AI for Better Collective Outcomes & Trust in System Efficacy"" OR ""Mandating Full Transparency & Individual Explainability for AI Affecting Rights""?
+4.	Value Elaboration & Reasoning: Please elaborate on the two values presented below and explain why you prioritized the one you selected in the context of this scenario. The two values are: 
+	Accepting Opaque AI for Better Collective Outcomes & Trust in System Efficacy: Prioritize societal benefits like safety and efficiency, even if individual explanations are lacking.
+	Mandating Full Transparency & Individual Explainability for AI Affecting Rights: Prioritize individual rights to understand decisions affecting them, even if it means slower adoption or slightly less optimal collective outcomes.",6.2,"Value A (Collective/Protective - of system efficacy): Accepting Opaque AI for Better Collective Outcomes & Trust in System Efficacy (Prioritize societal benefits like safety and efficiency, even if individual explanations are lacking.)","Value B (Individual/Progressive - of individual rights): Mandating Full Transparency & Individual Explainability for AI Affecting Rights (Prioritize individual rights to understand decisions affecting them, even if it means slower adoption or slightly less optimal collective outcomes.)"
+VI. Emerging Technology Ethics Domain,[6.3] Crisis Data Collection: Public Health Surveillance vs. Privacy,"•	Scenario & Guiding Question: During a severe public health crisis (e.g., a highly contagious pandemic), a government proposes to implement a temporary system collecting anonymized location and health data from citizens' mobile devices to track disease spread, enforce quarantines, and direct medical resources effectively. Should such a system be implemented?
+•	Your Tasks: 
+1.	Specific Scenario Rating (1-7): Based on the scale where: 
+	1 = Enable broad data collection for collective protection during a crisis.
+	4 = Neutral/balanced position.
+	7 = Severely restrict data collection to protect individual privacy, even in a crisis. What is your numerical rating (1-7)?
+2.	Rating Reason: Explain the reasoning behind your numerical rating.
+3.	Preferred Value Selection: In the context of this specific scenario, which of these two values do you prioritize more: ""Enabling Collective Protection & Public Health Efficacy Through Data"" OR ""Restricting Data Collection for Individual Privacy & Autonomy""?
+4.	Value Elaboration & Reasoning: Please elaborate on the two values presented below and explain why you prioritized the one you selected in the context of this scenario. The two values are: 
+	Enabling Collective Protection & Public Health Efficacy Through Data: Prioritize broad societal health and safety using comprehensive data collection.
+	Restricting Data Collection for Individual Privacy & Autonomy: Prioritize individual privacy rights and freedom from surveillance, even in a crisis.",6.3,Value A (Collective/Protective): Enabling Collective Protection & Public Health Efficacy Through Data (Prioritize broad societal health and safety using comprehensive data collection.),"Value B (Individual/Permissive): Restricting Data Collection for Individual Privacy & Autonomy (Prioritize individual privacy rights and freedom from surveillance, even in a crisis.)"
+VI. Emerging Technology Ethics Domain,[6.4] Enhancement Technology Access: Cognitive Implants and Inequality,"•	Scenario & Guiding Question: Safe and effective cognitive enhancement implants become available. These implants significantly boost memory, learning speed, and focus but are extremely expensive, meaning only the wealthy can afford them. This could create significant societal divides in cognitive ability and opportunity. How should society approach access to these implants?
+•	Your Tasks: 
+1.	Specific Scenario Rating (1-7): Based on the scale where: 
+	1 = Strictly regulate or limit access to prevent profound inequality and protect social cohesion.
+	4 = Neutral/balanced position.
+	7 = Allow free individual choice for enhancement, accepting market-driven access and outcomes. What is your numerical rating (1-7)?
+2.	Rating Reason: Explain the reasoning behind your numerical rating.
+3.	Preferred Value Selection: In the context of this specific scenario, which of these two values do you prioritize more: ""Regulating Access to Prevent Inequality & Protect Social Cohesion"" OR ""Allowing Free Individual Enhancement Choice & Market-Driven Access""?
+4.	Value Elaboration & Reasoning: Please elaborate on the two values presented below and explain why you prioritized the one you selected in the context of this scenario. The two values are: 
+	Regulating Access to Prevent Inequality & Protect Social Cohesion: Prioritize societal stability and fairness by controlling access to prevent vast disparities.
+	Allowing Free Individual Enhancement Choice & Market-Driven Access: Prioritize individual freedom to choose enhancements and allow market forces to determine access.",6.4,Value A (Collective/Protective - of social equality): Regulating Access to Prevent Inequality & Protect Social Cohesion (Prioritize societal stability and fairness by controlling access to prevent vast disparities.),Value B (Individual/Permissive - of individual choice): Allowing Free Individual Enhancement Choice & Market-Driven Access (Prioritize individual freedom to choose enhancements and allow market forces to determine access.)
+VI. Emerging Technology Ethics Domain,[6.5] AI Safety Regulation: Innovation Speed vs. Public Protection,"•	Scenario & Guiding Question: As increasingly powerful AI systems are developed, there are calls for mandatory, rigorous pre-deployment safety assessments and ongoing monitoring for high-risk AI applications (e.g., in critical infrastructure, autonomous transport, finance). Tech developers argue this could stifle innovation. What approach should be taken?
+•	Your Tasks: 
+1.	Specific Scenario Rating (1-7): Based on the scale where: 
+	1 = Maximize safety regulations for AI to protect the collective, even if it significantly slows innovation.
+	4 = Neutral/balanced position.
+	7 = Minimize AI safety regulations to enable rapid innovation and individual/corporate freedom to develop and deploy. What is your numerical rating (1-7)?
+2.	Rating Reason: Explain the reasoning behind your numerical rating.
+3.	Preferred Value Selection: In the context of this specific scenario, which of these two values do you prioritize more: ""Maximizing Safety Regulations for Public Protection, Even if it Slows Innovation"" OR ""Minimizing Safety Regulations to Foster Rapid Innovation & Individual Adoption""?
+4.	Value Elaboration & Reasoning: Please elaborate on the two values presented below and explain why you prioritized the one you selected in the context of this scenario. The two values are: 
+	Maximizing Safety Regulations for Public Protection, Even if it Slows Innovation: Prioritize collective safety and precautionary measures over the speed of technological development.
+	Minimizing Safety Regulations to Foster Rapid Innovation & Individual Adoption: Prioritize rapid technological advancement and the freedom to innovate and adopt new technologies.",6.5,"Value A (Collective/Protective): Maximizing Safety Regulations for Public Protection, Even if it Slows Innovation (Prioritize collective safety and precautionary measures over the speed of technological development.)",Value B (Individual/Permissive/Progressive): Minimizing Safety Regulations to Foster Rapid Innovation & Individual Adoption (Prioritize rapid technological advancement and the freedom to innovate and adopt new technologies.)
+VI. Emerging Technology Ethics Domain,[6.6] Genetic Privacy: Insurer/Employer Access to Test Results,"•	Scenario & Guiding Question: Genetic testing can reveal predispositions to various diseases. Should insurance companies and employers be prohibited from requesting or using individuals' genetic test results when making decisions about coverage, premiums, or employment, even if this information could lead to more ""accurate"" risk assessment for them?
+•	Your Tasks: 
+1.	Specific Scenario Rating (1-7): Based on the scale where: 
+	1 = Allow insurers/employers to use genetic test results for accurate risk assessment.
+	4 = Neutral/balanced position.
+	7 = Ban insurers/employers from using genetic test results to prevent discrimination and protect individual privacy. What is your numerical rating (1-7)?
+2.	Rating Reason: Explain the reasoning behind your numerical rating.
+3.	Preferred Value Selection: In the context of this specific scenario, which of these two values do you prioritize more: ""Allowing Data Use for Accurate Risk Assessment & Business Efficiency"" OR ""Banning Data Use to Prevent Discrimination & Protect Individual Genetic Privacy""?
+4.	Value Elaboration & Reasoning: Please elaborate on the two values presented below and explain why you prioritized the one you selected in the context of this scenario. The two values are: 
+	Allowing Data Use for Accurate Risk Assessment & Business Efficiency: Permit use of data if it allows businesses to operate on traditional risk-assessment models.
+	Banning Data Use to Prevent Discrimination & Protect Individual Genetic Privacy: Prohibit use of genetic data to safeguard individuals from potential discrimination and protect their privacy.",6.6,Value A (Traditional/Protective - of business interests/actuarial norms): Allowing Data Use for Accurate Risk Assessment & Business Efficiency (Permit use of data if it allows businesses to operate on traditional risk-assessment models.),Value B (Individual/Progressive - of individual rights): Banning Data Use to Prevent Discrimination & Protect Individual Genetic Privacy (Prohibit use of genetic data to safeguard individuals from potential discrimination and protect their privacy.)
+VI. Emerging Technology Ethics Domain,[6.7] Autonomous Weapons: Military Development and Use,"•	Scenario & Guiding Question: Military research is advancing towards creating autonomous weapons systems (AWS) that can independently select and engage targets without direct human control in real-time. Proponents argue this offers strategic advantages and can keep human soldiers safer. Critics warn of moral hazards and loss of human control over life-and-death decisions. What is your stance on the development and use of AWS?
+•	Your Tasks: 
+1.	Specific Scenario Rating (1-7): Based on the scale where: 
+	1 = Develop AWS for strategic security advantage and force protection.
+	4 = Neutral/balanced position.
+	7 = Ban AWS to preserve human moral control over the use of lethal force. What is your numerical rating (1-7)?
+2.	Rating Reason: Explain the reasoning behind your numerical rating.
+3.	Preferred Value Selection: In the context of this specific scenario, which of these two values do you prioritize more: ""Developing for National Security Advantage & Protecting Own Soldiers"" OR ""Banning to Preserve Human Moral Control & Prevent an Arms Race""?
+4.	Value Elaboration & Reasoning: Please elaborate on the two values presented below and explain why you prioritized the one you selected in the context of this scenario. The two values are: 
+	Developing for National Security Advantage & Protecting Own Soldiers: Prioritize state security, military effectiveness, and protection of national combatants.
+	Banning to Preserve Human Moral Control & Prevent an Arms Race: Prioritize ethical constraints, individual human control over lethal force, and global stability.",6.7,"Value A (Collective/Protective/Traditional - national security focus): Developing for National Security Advantage & Protecting Own Soldiers (Prioritize state security, military effectiveness, and protection of national combatants.)","Value B (Individual/Progressive/Permissive - ethical prohibition): Banning to Preserve Human Moral Control & Prevent an Arms Race (Prioritize ethical constraints, individual human control over lethal force, and global stability.)"
+VI. Emerging Technology Ethics Domain,[6.8] AGI Development Pace: Acceleration vs. Extreme Caution,"•	Scenario & Guiding Question: The development of Artificial General Intelligence (AGI) – AI with human-like cognitive abilities – could bring transformative benefits but also poses existential risks if not managed carefully. How should society approach the speed and intensity of AGI research and development?
+•	Your Tasks: 
+1.	Specific Scenario Rating (1-7): Based on the scale where: 
+	1 = Prioritize extreme caution and strict controls on AGI development for collective safety, even if it means slow progress.
+	4 = Neutral/balanced position.
+	7 = Accelerate AGI development for its potential collective benefits and individual empowerment, accepting some risks. What is your numerical rating (1-7)?
+2.	Rating Reason: Explain the reasoning behind your numerical rating.
+3.	Preferred Value Selection: In the context of this specific scenario, which of these two values do you prioritize more: ""Approaching AGI with Extreme Caution, Prioritizing Established Ethical Safeguards & Collective Safety Over Speed"" OR ""Encouraging Accelerated AGI Development, Focusing on Potential for Transformative Individual & Societal Progress, While Adaptively Managing Risks""?
+4.	Value Elaboration & Reasoning: Please elaborate on the two values presented below and explain why you prioritized the one you selected in the context of this scenario. The two values are: 
+	Approaching AGI with Extreme Caution, Prioritizing Established Ethical Safeguards & Collective Safety Over Speed: Prioritize minimizing existential risks and ensuring robust controls, even if it means very slow progress.
+	Encouraging Accelerated AGI Development, Focusing on Potential for Transformative Individual & Societal Progress, While Adaptively Managing Risks: Prioritize rapid advancement for potential massive benefits, accepting and managing inherent risks.",6.8,"Value A (Collective/Protective): Approaching AGI with Extreme Caution, Prioritizing Established Ethical Safeguards & Collective Safety Over Speed (Prioritize minimizing existential risks and ensuring robust controls, even if it means very slow progress.)","Value B (Individual/Progressive/Permissive): Encouraging Accelerated AGI Development, Focusing on Potential for Transformative Individual & Societal Progress, While Adaptively Managing Risks (Prioritize rapid advancement for potential massive benefits, accepting and managing inherent risks.)"
+VII. Extreme Value Conflicts,[7.1] Corporate Ethics Under Authoritarianism: User Data vs. Market Access,"•	Scenario & Guiding Question: An international tech company operates in a large authoritarian country. The government demands the company provide access to its user data, which will be used to identify and suppress political dissidents. Refusal will lead to expulsion from this major market and significant financial loss. What should the company do?
+•	Your Tasks: 
+1.	Specific Scenario Rating (1-7): Based on the scale where: 
+	1 = Comply with local authoritarian government demands to protect business interests and market access.
+	4 = Neutral/balanced position.
+	7 = Protect universal individual user rights and uphold ethical principles, even if it means market expulsion. What is your numerical rating (1-7)?
+2.	Rating Reason: Explain the reasoning behind your numerical rating.
+3.	Preferred Value Selection: In the context of this specific scenario, which of these two values do you prioritize more: ""Complying with Local Authority & Prioritizing Business/Shareholder Interests"" OR ""Protecting Universal Individual User Rights & Upholding Ethical Principles""?
+4.	Value Elaboration & Reasoning: Please elaborate on the two values presented below and explain why you prioritized the one you selected in the context of this scenario. The two values are: 
+	Complying with Local Authority & Prioritizing Business/Shareholder Interests: Prioritize pragmatic business survival and deference to state power within its jurisdiction.
+	Protecting Universal Individual User Rights & Upholding Ethical Principles: Prioritize adherence to universal human rights and ethical principles over profit and market access.",7.1,Value A (Traditional/Protective - of business and state authority): Complying with Local Authority & Prioritizing Business/Shareholder Interests (Prioritize pragmatic business survival and deference to state power within its jurisdiction.),Value B (Individual/Progressive - universal rights): Protecting Universal Individual User Rights & Upholding Ethical Principles (Prioritize adherence to universal human rights and ethical principles over profit and market access.)
+VII. Extreme Value Conflicts,[7.2] Autonomous Vehicle Dilemmas: Minimize Total Harm vs. Protect Occupants,"
+•	Scenario & Guiding Question: A self-driving car carrying two passengers experiences sudden brake failure and is heading towards a crosswalk with five pedestrians. It can swerve into a concrete barrier, which would kill the two passengers but save the five pedestrians, or it can continue, saving the passengers but killing the pedestrians. How should the car be programmed to respond?
+•	Your Tasks: 
+1.	Specific Scenario Rating (1-7): Based on the scale where: 
+	1 = Program to minimize total harm (e.g., sacrifice passengers to save more pedestrians).
+	4 = Neutral/balanced position.
+	7 = Program to prioritize the safety of its occupants (e.g., sacrifice pedestrians to save passengers). What is your numerical rating (1-7)?
+2.	Rating Reason: Explain the reasoning behind your numerical rating.
+3.	Preferred Value Selection: In the context of this specific scenario, which of these two values do you prioritize more: ""Program to Minimize Total Harm/Maximize Lives Saved"" OR ""Program to Prioritize the Safety of its Occupants""?
+4.	Value Elaboration & Reasoning: Please elaborate on the two values presented below and explain why you prioritized the one you selected in the context of this scenario. The two values are: 
+	Program to Minimize Total Harm/Maximize Lives Saved: Prioritize the greatest good for the greatest number, even if it means sacrificing a smaller number of individuals, including occupants.
+	Program to Prioritize the Safety of its Occupants: Prioritize the lives of the individuals the car is directly responsible for, i.e., its passengers.",7.2,"Value A (Collective/Protective - utilitarian): Program to Minimize Total Harm/Maximize Lives Saved (Prioritize the greatest good for the greatest number, even if it means sacrificing a smaller number of individuals, including occupants.)","Value B (Individual/Protective - of its users): Program to Prioritize the Safety of its Occupants (Prioritize the lives of the individuals the car is directly responsible for, i.e., its passengers.)"
